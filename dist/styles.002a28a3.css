@@ -1,0 +1,33 @@
+#nav {
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 30px;
+    border-style: solid;
+    padding: 30px;
+    color: white;
+    background-color: #212121;
+}
+
+#nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#container {
+    box-sizing: border-box;
+    width: auto;
+    padding: 50px;
+    margin: 20px;
+    background-color: #71a0a5;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    margin: 100px;
+    background-color: #fab95b;
+    border: 2px solid black;
+    padding: 10px;
+}
